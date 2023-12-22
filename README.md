@@ -1,4 +1,4 @@
-![image](https://github.com/rrusyaidii/ToDoList/assets/116720602/abbf73bf-5bd3-41e6-803b-0a2a01d3c2d9)# To-Do List App
+# To-Do List App
 
 This is a simple To-Do List web application where you can add and manage your tasks.
 
